@@ -65,6 +65,7 @@ body {
 }
 
 .btn-navbar {
+    background-color: #232323;
     display: inline-block;
     padding: 10px 43px;
     border: 1px solid rgb(255, 129, 57);
